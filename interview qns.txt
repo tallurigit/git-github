@@ -1,0 +1,16 @@
+1.How to upgrade 11g to 12c?
+2.How to create JMS adapter.
+3.difference between queue and distributed queue?
+4.What is mediator? where did u use it.
+5.Connectivity between weblogic and oHS?
+6.How to take heap dump?
+7.command to take heapdump? using jstack -l <vm-id>.
+8.Differnt ways of collecting thread dump?
+9.Composite life cycle?
+10.Command to used to deploy composite?
+11.Automate script to deploy composite using wlst?
+12.How do u write wlst script to deploy automatically?
+13.scenario- two physical systems with cluster- after one year how to put another same machine which needs to be placed in cluster.
+14.what kind of adapters have u used?
+15.Recent big problem faced? and how did u solved?
+16.
